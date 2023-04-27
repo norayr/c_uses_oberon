@@ -1,0 +1,8 @@
+MODULE m;
+
+PROCEDURE add*(i, j: INTEGER): INTEGER;
+BEGIN
+  RETURN i + j
+END add;
+
+END m.
